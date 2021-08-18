@@ -8,6 +8,8 @@ https://uta-workout-tracker.herokuapp.com/
   
   This Heroku deployed site has the ability to view, create, and track daily workouts. User has the ability to log multiple exercises on any given day. A user is then able to track by name, type, weight, sets, reps, and duration of exercise. If a cardio exercise is recored, there is the ability to track distance traveled. With all of this functionality, a user can track to better achieve fitness goals.
   
+  https://user-images.githubusercontent.com/84646398/129818205-9a8f704a-fc30-4990-93fd-e20cc7db71b6.mp4
+  
   ## Table of Content
   
   [Installation Instructions](#installation-instructions)  
