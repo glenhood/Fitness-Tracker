@@ -1,7 +1,7 @@
 # Fitness Tracker
 
-https://uta-workout-tracker.herokuapp.com/
-  
+https://immense-hamlet-68734.herokuapp.com/
+
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
